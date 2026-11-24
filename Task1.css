@@ -1,0 +1,54 @@
+body {
+	background-color: black;
+	font-family: "Trebuchet MS", sans-serif;
+	text-align: center;
+}
+
+.card {
+	background-color: lightgreen;
+	width: 300px;
+	padding: 20px;
+	margin: 50px auto;
+	border-radius: 15px;
+}
+
+img {
+	width:120px;
+	heigth:150px;
+	border-radius: 40%;
+	object-fit:cover:
+}
+
+label {
+	color: purple;
+}
+
+h3 {
+	color: Red;
+}
+h2 {
+	color: darkgreen;
+}
+
+p {
+	font-family:"Poppins", sans-serif;
+	color: ;
+}
+
+a {
+	display: block;
+	background-color:black;
+	color: orange;
+	padding: 5px;
+	margin: 5px;
+	text-decoration:none;
+	border-radius:100px;
+}
+
+a:hover {
+	background-color: darkblue;
+}
+
+input {
+	cursor:pointer;
+}
